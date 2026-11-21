@@ -9,6 +9,10 @@ What it's used for here:
 
 Nothing depends on it, so it can be rebuilt or switched off at any time.
 
+![Cluster view](images/pdm-cluster.png)
+
+![Backup server view](images/pdm-pbs.png)
+
 ## Install
 
 1. Download the PDM ISO to a node (`local > ISO Images > Download from URL`).
